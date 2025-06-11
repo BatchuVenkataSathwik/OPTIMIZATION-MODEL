@@ -64,3 +64,7 @@ x, y ≥ 0 and must be integers (no half products!)
 This project successfully fulfills CodTech Internship Task 4. It uses modern tools and programming techniques to solve a classical optimization problem. By using VS Code, Python, and PuLP, the task was completed efficiently and provides clear insights into the production strategy for maximum profit.
 
 The project is clean, repeatable, and can be shared on platforms like GitHub for portfolio use. It’s a great intro into the world of operations research, optimization, and data-driven decisions.
+
+
+#Output :-
+![Image](https://github.com/user-attachments/assets/9c4bff95-c1b4-409f-93be-73355cc8462f)
